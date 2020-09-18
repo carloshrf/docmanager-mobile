@@ -19,3 +19,10 @@ export const Title = styled.Text`
   margin: 60px 0 20px;
   color: #fff;
 `;
+
+export const ForgotPassword = styled.TouchableOpacity``;
+
+export const ForgotPasswordText = styled.Text`
+  font-size: 16px;
+  font-family: 'Poppins-Medium';
+`;
