@@ -9,7 +9,6 @@ export const Contaier = styled.View`
 export const FormContainer = styled.View`
   width: 100%;
   height: 400px;
-  /* background-color: red; */
   padding: 0 30px;
 `;
 

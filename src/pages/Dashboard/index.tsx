@@ -9,11 +9,10 @@ const Dashboard: React.FC = () => {
 
   return (
     <Container>
-      <Text>Dashboard</Text>  
+      <Text>Dashboard</Text>
       <Button title="Sair" onPress={signOut} />
     </Container>
   );
 };
 
 export default Dashboard;
-  

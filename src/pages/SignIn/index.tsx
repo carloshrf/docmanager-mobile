@@ -16,7 +16,6 @@ import Button from '../../components/Button';
 import Input from '../../components/Input';
 
 import getValidationErrors from '../../utils/getValidationErrors';
-import api from '../../services/api';
 import logoImg from '../../assets/logo.png';
 import { useAuth } from '../../hooks/auth';
 
